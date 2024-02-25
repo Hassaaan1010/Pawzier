@@ -1,0 +1,25 @@
+{
+  "name": "pawzier",
+  "version": "1.0.0",
+  "description": "wrapper for public petfinder api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hassaaan1010/Pawzier.git"
+  },
+  "author": "hassaaan1010",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hassaaan1010/Pawzier/issues"
+  },
+  "homepage": "https://github.com/Hassaaan1010/Pawzier#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "body-parser": "^1.20.2",
+    "morgan": "^1.10.0"
+  }
+}
